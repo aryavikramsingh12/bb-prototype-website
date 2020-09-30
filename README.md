@@ -27,7 +27,7 @@ Install node modules
 Build the project
 =================
 
-There are a couple different ways to build
+There are a many different ways to build
 
 - `gulp` this will build the project and run the watch task, so any changes to the files now will cause the build to run again automatically
 - `gulp serve` this will build and watch the project plus serve the site locally
